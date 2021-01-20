@@ -1,2 +1,3 @@
 # Radon
-Files used for creating Radon, the UCB Nuclear Engineering Chatbot. 
+
+Files used for creating the JSON files for IBM Discovery. 
